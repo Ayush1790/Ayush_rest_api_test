@@ -1,0 +1,17 @@
+{
+    "name": "cedcoss/rest_test_main",
+    "autoload": {
+        "psr-4": {
+            "Cedcoss\\RestTestMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayush1790",
+            "email": "ayushgupta@cedcoss.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}
